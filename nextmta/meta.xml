@@ -1,0 +1,5 @@
+<meta>
+	<info author="0xWraith(Dmitry Dzhuha)" description="DVD system for NEXT RP" />
+    <file src="dvdIMG.png" download="true"/>
+	<script src="client.lua" type="client" />
+</meta>
